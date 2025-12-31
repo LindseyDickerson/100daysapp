@@ -14,7 +14,7 @@
     "react-dom": "^16.12.0",
     "react-icons": "^3.7.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "react-spinners": "^0.5.4",
     "reactstrap": "^8.3.2",
     "youtube-api-search": "0.0.5"
